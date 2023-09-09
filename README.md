@@ -53,4 +53,4 @@ Open GitHub Button: A button labeled "Open GitHub" is added to the main screen. 
 ## Usage
 Users can interact with this app by using the 'Open Github' button to access my GitHub page
 
-![Personal details mobile App](https://myoctocat.com/assets/images/base-octocat.svg)
+![Personal details mobile App](/assets/images/app.png)
