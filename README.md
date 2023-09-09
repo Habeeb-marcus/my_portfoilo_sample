@@ -1,11 +1,12 @@
-# profile
+# Personal Details Mobile Application
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Overview
+This Flutter mobile application prominently features my Slack identity, Slack profile picture and includes a "Open GitHub" button. When pressed, this button utilizes a WebView component to redirect users to my GitHub profile within the application itself.
 
+#Tbale of Contents
+- 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
