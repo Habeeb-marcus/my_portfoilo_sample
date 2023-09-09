@@ -46,8 +46,11 @@ Requirements
 The application adheres to the following requirements:
 
 Slack Name: The application's main screen prominently displays your Slack name.
+
 Display Picture: Your Slack profile picture is integrated onto the main screen, ensuring it is clear and of high quality.
 Open GitHub Button: A button labeled "Open GitHub" is added to the main screen. When pressed, it correctly redirects users to your GitHub profile using a WebView component within the application.
 
 ## Usage
 Users can interact with this app by using the 'Open Github' button to access my GitHub page
+
+![Personal details mobile App](https://myoctocat.com/assets/images/base-octocat.svg)
